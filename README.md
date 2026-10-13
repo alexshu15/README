@@ -14,5 +14,5 @@
 
 4. 使用提示詞
    - 請幫我檢查這段程式碼有沒有錯誤
-   - 請解釋這份檔案(老師上課的講義)中 global alignment 和 local alignment 演算法的運作邏輯
+   - 請解釋這份檔案中 global alignment 和 local alignment 演算法的運作邏輯
    - python中 Bio套件的 SeqIO用法
