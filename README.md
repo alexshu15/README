@@ -10,7 +10,7 @@
    - 查詢 Bio 套件的安裝與用法
 
 3. AI對話紀錄
-   - https://share.gemini.google/rLELhPXAepzk
+   - https://share.gemini.google/CsesudgwEFpe
 
 4. 使用提示詞
    - 請幫我檢查這段程式碼有沒有錯誤
