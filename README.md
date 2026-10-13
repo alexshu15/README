@@ -5,7 +5,7 @@
 
 2. 使用範圍
    - 使用AI幫忙找出程式碼中的錯誤
-   - 解釋上課中提及的 local alignment、global alignment 演算法的運作流程
+   - 解釋上課中提及的 local alignment、global alignment 演算法的運作邏輯
    - 詢問 local alignment、global alignment 演算法初始值如何設定
    - 查詢 Bio 套件的安裝與用法
 
